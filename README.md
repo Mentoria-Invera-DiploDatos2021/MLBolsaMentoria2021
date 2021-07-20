@@ -18,10 +18,8 @@ conda install -c anaconda pandas-datareader jupyterlab
 
 # En caso de pip
 pip install pandas-datareader jupyterlab
-!pip install yfinance
-```
 
-# Instalar librería yfinance
+# Para instalar yfinance
 !pip install yfinance
 ```
 
