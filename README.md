@@ -18,6 +18,11 @@ conda install -c anaconda pandas-datareader jupyterlab
 
 # En caso de pip
 pip install pandas-datareader jupyterlab
+!pip install yfinance
+```
+
+# Instalar librería yfinance
+!pip install yfinance
 ```
 
 ## Correr Jupyter Lab
@@ -25,3 +30,4 @@ pip install pandas-datareader jupyterlab
 ```bash
 jupyter-lab DatosMLBolsa.ipynb
 ```
+
